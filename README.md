@@ -17,3 +17,14 @@ Kapatmak için: kediye sağ tık > **Kapat**.
 ## Gizlilik
 
 Kedi yorum yapmak için ekran görüntüsünü Google Gemini'ye gönderir. Gizli bir şey açıkken sağ tık > **Otomatik yorum**'u kapat. "Miyav" bekleme bilgisayarında olur, ses kaydedilmez. Oyundayken hiçbir şey gönderilmez. Anahtarın sadece bilgisayarında saklanır.
+
+## Sorumluluk reddi
+
+Bu program eğlence amaçlıdır ve **olduğu gibi, hiçbir garanti olmadan** sunulur. Kullanımından doğabilecek her türlü sonuç kullanıcının sorumluluğundadır.
+
+- Kedi senden onay almadan dosya taşımaz, arka planı değiştirmez ya da yeni özellik eklemez. Dosya düzenleme geri alınabilir, yine de önemli dosyalarının yedeği olsun.
+- Kedinin kendine yazdığı özellikler yapay zeka tarafından üretilir ve senin onayınla çalışır. Anlamadığın bir kodu onaylama.
+- Gemini kullanımı Google'ın kendi koşullarına tabidir. Kendi anahtarını kullanırsın, kota ve kurallar senin hesabına aittir.
+- Windows, imzasız olduğu için programı "bilinmeyen yayıncı" diye uyarabilir. Programı sadece bu sayfadan indir.
+
+Lisans: [MIT](LICENSE)
